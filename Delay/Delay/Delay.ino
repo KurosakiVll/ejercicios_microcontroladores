@@ -1,4 +1,4 @@
-//hello_world
+//delay
 int contador = 0;
 
 void setup() {
