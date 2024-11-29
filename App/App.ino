@@ -16,7 +16,7 @@ void loop() {
 
     if (choice == "H" || choice == "h"){
       Serial.println("Menú: ");
-      Serial.println("h/h ayuda");
+      Serial.println("H/h ayuda");
       Serial.println("START/Start: Inciar");
       Serial.println("STOP/stop: Detener");
       Serial.println("T/t: Cambiar frecuencia de 1 a 10 HZ");
